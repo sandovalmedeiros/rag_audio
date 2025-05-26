@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivos sensíveis
+.env
+
+# Arquivos desnecessários
+*.zip
+*.log
+
+# .gitignore
+hf_cache/
