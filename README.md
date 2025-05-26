@@ -48,6 +48,19 @@ cp .env.example .env
 
 Edite com suas chaves reais:
 
+Configurar o AssemblyAI:
+
+Obtenha uma chave de API do AssemblyAI (http://bit.ly/4bGBdux) e defina-a no arquivo .env da seguinte forma:
+
+ASSEMBLYAI_API_KEY=<SUA_CHAVE_API>
+
+Configurar o SambaNova:
+
+Obtenha uma chave de API do SambaNova (https://sambanova.ai/) e defina-a no arquivo .env da seguinte forma:
+
+SAMBANOVA_API_KEY=<SUA_CHAVE_API_SAMBANOVA>
+Observação: em vez do SambaNova, você também pode usar o Ollama.
+
 ```env
 ASSEMBLYAI_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 SAMBANOVA_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
