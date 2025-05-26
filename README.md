@@ -139,6 +139,6 @@ E evite modelos como `llama3.1:8b` localmente.
 
 ## 🤝 Créditos
 
-Desenvolvido com ❤️ por Sandova.
-
+Adaptado de: https://github.com/patchy631/ai-engineering-hub/tree/main/chat-with-audios?ref=dailydoseofds.com
+Com ❤️ por Sandova.
 Inspirado por soluções modernas de RAG com áudio e LLMs.
